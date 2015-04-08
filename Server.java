@@ -1,7 +1,5 @@
 /*
-Class: ITCS 3166
 Name: Joshua Honeycutt
-Program: Midterm project
 File: Sever File
 */
 import java.util.*;
